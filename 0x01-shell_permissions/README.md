@@ -15,3 +15,4 @@ Owner: no permission at all
 Group: no permission at all
 
 Other users: all the permissions
+Write a script that sets the mode of the file hello the same as olleh’s mode
